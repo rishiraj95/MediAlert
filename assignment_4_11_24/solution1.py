@@ -23,4 +23,3 @@ for _ in range(T):
         print("COUPON")
     else:
         print("NO COUPON")
-or Smarter Healthcare Insights
