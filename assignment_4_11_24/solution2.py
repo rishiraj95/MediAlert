@@ -14,7 +14,7 @@ def min_operations_to_max(n, arr):
     # The number of operations needed is equal to the count of the minimum values
     return min_count
 
-# Read number of test cases
+# Read number of test cases.
 t = int(input("Enter the number of test cases: "))
 
 # Process each test case

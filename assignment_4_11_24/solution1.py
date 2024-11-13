@@ -15,7 +15,7 @@ def should_buy_coupon(n, x, y, prices):
 # Read the number of test cases
 t = int(input("Enter the number of test cases: "))
 
-# Process each test case
+# Process each test case.
 results = []
 for _ in range(t):
     # Read N, X, Y
@@ -30,4 +30,3 @@ for _ in range(t):
 # Print the results for all test cases
 for result in results:
     print(result)
-
