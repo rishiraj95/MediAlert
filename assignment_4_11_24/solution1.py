@@ -1,4 +1,3 @@
-### Write your program here
 # Function to determine whether Chef should buy the coupon
 def should_buy_coupon(n, x, y, prices):
     # Calculate the total cost without any coupon
