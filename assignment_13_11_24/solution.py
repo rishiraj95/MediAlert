@@ -70,4 +70,4 @@ for i in range(N):
 
 # Iterates through list
 for i in li:
-    print(i)
+    print(i) 
